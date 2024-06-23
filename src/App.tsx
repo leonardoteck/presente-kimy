@@ -101,27 +101,11 @@ function App() {
             <div className='pane2'>
               <h2>Sabia, era tudo mentira! Bicha má :( tá falando sério? Não quer mesmo?</h2>
 
-              <button className='yes' onClick={() => setMainContent('secondNo')}>Sim</button>
-              <button className='no' onClick={() => setMainContent('secondNo')}>Não</button>
-            </div>
-          </div>
-        )}
-
-        
-        {mainContent == 'secondNo' && (
-          <div className='twoPanes'>
-            <div className='pane1'>
-              <img src={opened} className='image' />
-            </div>
-            <div className='pane2'>
-              <h2>Sabia, era tudo mentira! Bicha má :( tá falando sério? Não quer mesmo?</h2>
-
               <button className='yes' onClick={() => setMainContent('yesNo')}>Sim</button>
               <button className='no' onClick={() => setMainContent('yesNo')}>Não</button>
             </div>
           </div>
         )}
-
 
         {mainContent == 'yesNo' && (
           <div className='twoPanes'>
