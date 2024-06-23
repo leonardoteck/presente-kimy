@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/presente-kimy/static/css/main.cc1882fa.css",
-    "main.js": "/presente-kimy/static/js/main.d05e3339.js",
+    "main.js": "/presente-kimy/static/js/main.8184da9d.js",
     "static/js/453.3e613095.chunk.js": "/presente-kimy/static/js/453.3e613095.chunk.js",
     "static/media/bg.jpg": "/presente-kimy/static/media/bg.2c5749200aca4180ec6c.jpg",
     "static/media/closed.png": "/presente-kimy/static/media/closed.e1eafa1951df6cf8277a.png",
-    "static/media/fim.jpg": "/presente-kimy/static/media/fim.e8435698792d39024d46.jpg",
+    "static/media/fim.jpg": "/presente-kimy/static/media/fim.b673c8c1eb4a99137fa4.jpg",
     "static/media/open.png": "/presente-kimy/static/media/open.98867c15d7e7a9fc32e2.png",
     "static/media/ily.webp": "/presente-kimy/static/media/ily.876054e12c841c13387d.webp",
     "index.html": "/presente-kimy/index.html",
     "main.cc1882fa.css.map": "/presente-kimy/static/css/main.cc1882fa.css.map",
-    "main.d05e3339.js.map": "/presente-kimy/static/js/main.d05e3339.js.map",
+    "main.8184da9d.js.map": "/presente-kimy/static/js/main.8184da9d.js.map",
     "453.3e613095.chunk.js.map": "/presente-kimy/static/js/453.3e613095.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc1882fa.css",
-    "static/js/main.d05e3339.js"
+    "static/js/main.8184da9d.js"
   ]
 }
